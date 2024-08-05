@@ -1,13 +1,21 @@
+'''
+
+Project 4
+
+Main Program - implements a list of four “regular” CollegeEmployee, three Faculty, and seven Students. 
+
+Programmer: Oberg, Parker
+
+Course: CSC1019-FBN
+
+'''
+
 # imports
 from Person import Person
 from CollegeEmployee import CollegeEmployee
 from Faculty import Faculty
 from Student import Student
 
-collegeEmployee = CollegeEmployee()
-person = Person()
-faculty = Faculty()
-student = Student()
 
 class CollegeList:
     def __init__(self):

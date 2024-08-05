@@ -1,3 +1,15 @@
+'''
+
+Project 4
+
+Faculty Class for CollegeList
+
+Programmer: Oberg, Parker
+
+Course: CSC1019-FBN
+
+'''
+
 from CollegeEmployee import CollegeEmployee
 
 class Faculty(CollegeEmployee):

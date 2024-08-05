@@ -1,3 +1,15 @@
+'''
+
+Project 4
+
+Person Class for CollegeList
+
+Programmer: Oberg, Parker
+
+Course: CSC1019-FBN
+
+'''
+
 class Person:
     def __init__(self):
         self.first_name = ""
