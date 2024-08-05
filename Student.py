@@ -1,3 +1,15 @@
+'''
+
+Project 4
+
+Student Class for CollegeList
+
+Programmer: Oberg, Parker
+
+Course: CSC1019-FBN
+
+'''
+
 from Person import Person
 
 class Student(Person):
